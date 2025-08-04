@@ -1,0 +1,25 @@
+{
+  "name": "store-notes-authentication-system",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohammedash-iq/Store-notes-authentication-system.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mohammedash-iq/Store-notes-authentication-system/issues"
+  },
+  "homepage": "https://github.com/mohammedash-iq/Store-notes-authentication-system#readme",
+  "dependencies": {
+    "express": "^5.1.0",
+    "latest": "^0.2.0"
+  }
+}
